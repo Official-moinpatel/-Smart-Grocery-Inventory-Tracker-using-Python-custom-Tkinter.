@@ -1,0 +1,20 @@
+[
+    {
+        "name": "milk",
+        "category": "Amul milk",
+        "quantity": "2 packs",
+        "expiry": "2025-08-08"
+    },
+    {
+        "name": "maggi ",
+        "category": "cheese maggi",
+        "quantity": "5",
+        "expiry": "2025-08-08"
+    },
+    {
+        "name": "Coofee",
+        "category": "nestley",
+        "quantity": "2",
+        "expiry": "2025-08-08"
+    }
+]
